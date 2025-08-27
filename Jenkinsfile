@@ -7,7 +7,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/your-repo/terraform-ec2-project.git'
+                git 'https://github.com/bigb579/aws-yaml.git'
             }
         }
         stage('Parse YAML Config') {

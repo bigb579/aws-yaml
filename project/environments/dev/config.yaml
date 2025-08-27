@@ -1,0 +1,7 @@
+instance_count: 4
+ami_id: "ami-0abcdef1234567890"
+instance_type: "t2.micro"
+key_name: "my-keypair"
+subnet_id: "subnet-123456789"
+project: "jenkins-demo"
+
